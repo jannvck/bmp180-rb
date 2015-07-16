@@ -1,4 +1,6 @@
 # bmp180-rb
+[![Code Climate](https://codeclimate.com/github/jannvck/bmp180-rb/badges/gpa.svg)](https://codeclimate.com/github/jannvck/bmp180-rb)
+
 Bosch BMP180 temperature sensor ruby library
 
 Straightforward to use:
